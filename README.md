@@ -1,4 +1,4 @@
-<table>
+
 <tr>
 <td width="220px" align="center">
 
@@ -22,4 +22,4 @@
 
 </td>
 </tr>
-</table>
+
