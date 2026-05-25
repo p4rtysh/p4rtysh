@@ -7,14 +7,14 @@
       <img src="gatitoo.png" width="350"/>
   </td>
   <td valign="top">
-      <p><b> about me: </b><br> 
+      <p><b> about me: </b>
       <br>
       ➧ software engineering 5/8<br>
       ➧ 20 years old<br>
       ➧ focus: cybersecurity & development<br>
       <br><br>
       I'm a student focusing on cybersecurity on software engineering.
-      <br>
+      <br><br>
       <b>languages and tools: </b></br>
       ➧ python ➧ java ➧ C ➧ C++
       <br><br>
