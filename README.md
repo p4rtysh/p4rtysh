@@ -1,20 +1,25 @@
-## Hi there 👋
+<table>
+<tr>
+<td width="220px" align="center">
 
-<text x="50" y="50">
-  Patrícia Ferreira
-</text>
+<img src="./assets/profile.png" width="180px" style="border-radius: 14px;" />
 
-<!--
-**p4rtysh/p4rtysh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</td>
 
-Here are some ideas to get you started:
+<td valign="top">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Patrícia Ferreira
+
+
+### Sobre
+
+
+### Tecnologias
+
+
+### Contato
+
+
+</td>
+</tr>
+</table>
