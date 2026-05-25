@@ -1,32 +1,26 @@
-<div align="center">
-
 <table>
-<tr>
-<td width="430">
+  <tr>
+    <td aling="center" width="430">
+      <img src="gatitoo.png" width="320"/>
+      <a href="https://git.io/typing-svg">
+      </a>
+      <br/>
+      <img src="gatitoo.png" width="350"/>
+      
+  </td>
 
-### Hello/ I'm Patrícia
-
-<img src="gatitoo.png" width="320"/>
-
-</td>
-
-<td width="430" valign="top">
-
-### about me:
-
-
-Atualmente explorando:
-
-
-### langs & frameworks:
-
-
-
-### links
-
-
-</td>
-</tr>
+  <td valign="top">
+      <p><b> about me: </b><br> 
+      software engineering 5/8
+      20 years old
+      she/her
+      <br><br>
+      I'm a student focusing on cybersecurity on software engineering.
+      <b>languages and tools: </b></br>
+      ➧ python ➧ java ➧ C ➧ C++
+      <br><br>
+        <img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-logo-icon-svg-download-png-2284952.png?f=webp width="40" height="40"/> <a href="https://www.linkedin.com/in/patricia-ferreiraz/"> Linkedin Profile </a>
+      </p>
+    </td>
+  </tr>
 </table>
-
-</div>
