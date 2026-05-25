@@ -17,7 +17,7 @@
       <br><br>
       <b>#languages and tools: </b></br>
       • linux internals  •  windows internals <br>
-      • python •  java  •  C  •  C++ <br> <br>
+      • python •  java  •  C  •  C++ <br> 
       • wireshark  |  grafana & prometheus  | kali linux
       <br><br><br><br>
         <img src="linkedin.webp" height="20"/> <a href="https://www.linkedin.com/in/patricia-ferreiraz/"> Linkedin Profile </a>
