@@ -18,7 +18,7 @@
       <b>languages and tools: </b></br>
       ➧ python ➧ java ➧ C ➧ C++
       <br><br><br><br>
-        <img src="linkedin.webp" height="40"/> <a href="https://www.linkedin.com/in/patricia-ferreiraz/"> Linkedin Profile </a>
+        <img src="linkedin.webp" height="20"/> <a href="https://www.linkedin.com/in/patricia-ferreiraz/"> Linkedin Profile </a>
       </p>
     </td>
   </tr>
