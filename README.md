@@ -1,11 +1,10 @@
 <table>
   <tr>
     <td aling="center" width="430">
-      <img src="gatitoo.png" width="320"/>
+      <img src="gatitoo.png" width="350"/>
       <a href="https://git.io/typing-svg">
       </a>
       <br/>
-      <img src="gatitoo.png" width="350"/>
       
   </td>
 
