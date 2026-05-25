@@ -4,7 +4,7 @@
       <a href="https://git.io/typing-svg">
       </a>
       <br/>
-      <img src="gatitoo.png" width="350"/>
+      <img src="gatitoio.png" width="350"/>
   </td>
   <td valign="top">
       <p><b> about me: </b>
