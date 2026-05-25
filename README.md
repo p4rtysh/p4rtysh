@@ -16,7 +16,9 @@
       I'm a student focusing on cybersecurity on software engineering.
       <br><br>
       <b>#languages and tools: </b></br>
-      • python • java ➧ C • C++
+      • linux internals  •  windows internals 
+      • python •  java  •  C  •  C++ <br>
+      • wireshark  |  grafana & prometheus  | kali linux
       <br><br><br><br>
         <img src="linkedin.webp" height="20"/> <a href="https://www.linkedin.com/in/patricia-ferreiraz/"> Linkedin Profile </a>
       </p>
