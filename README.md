@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td aling="center" width="430">
+    <td aling="center" width="350">
       <a href="https://git.io/typing-svg">
       </a>
       <br/>
