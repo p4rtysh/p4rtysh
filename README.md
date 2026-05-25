@@ -13,7 +13,7 @@
       • 20 years old<br>
       • focus: cybersecurity & development<br>
       <br>
-      I'm a student focusing on cybersecurity on software engineering. I worked as an Intern in Software Engineering in 2025 and currently I'm a DPO at my college's Startup.
+      I'm a student focusing on cybersecurity and software engineering. I worked as an Software Engineering Student in 2025 and currently I'm a DPO at my college's Startup.
       <br><br>
       <b>#languages and tools: </b></br>
       • linux internals  |  windows internals <br>
