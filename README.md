@@ -14,6 +14,7 @@
       ➧ focus: cybersecurity & development<br>
       <br><br>
       I'm a student focusing on cybersecurity on software engineering.
+      <br>
       <b>languages and tools: </b></br>
       ➧ python ➧ java ➧ C ➧ C++
       <br><br>
