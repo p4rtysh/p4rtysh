@@ -12,7 +12,7 @@
       ➧ software engineering 5/8<br>
       ➧ 20 years old<br>
       ➧ focus: cybersecurity & development<br>
-      <br><br>
+      <br>
       I'm a student focusing on cybersecurity on software engineering.
       <br><br>
       <b>languages and tools: </b></br>
