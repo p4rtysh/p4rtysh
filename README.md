@@ -1,25 +1,32 @@
+<div align="center">
+
 <table>
 <tr>
-<td width="220px" align="center">
+<td width="430">
 
-<img src="gatitoo.png" width="180px" style="border-radius: 14px;" />
+### Hello/ I'm Patrícia
+
+<img src="gatitoo.png" width="320"/>
 
 </td>
 
-<td valign="top">
+<td width="430" valign="top">
 
-# Patrícia Ferreira
-
-
-### Sobre
+### about me:
 
 
-### Tecnologias
+Atualmente explorando:
 
 
-### Contato
+### langs & frameworks:
+
+
+
+### links
 
 
 </td>
 </tr>
 </table>
+
+</div>
