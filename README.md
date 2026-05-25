@@ -7,16 +7,16 @@
       <img src="gatitoio.png" width="350"/>
   </td>
   <td valign="top">
-      <p><b> about me: </b>
+      <p><b>#about me: </b>
       <br>
-      ➧ software engineering 5/8<br>
-      ➧ 20 years old<br>
-      ➧ focus: cybersecurity & development<br>
+      • software engineering 5/8<br>
+      • 20 years old<br>
+      • focus: cybersecurity & development<br>
       <br>
       I'm a student focusing on cybersecurity on software engineering.
       <br><br>
-      <b>languages and tools: </b></br>
-      ➧ python ➧ java ➧ C ➧ C++
+      <b>#languages and tools: </b></br>
+      • python • java ➧ C • C++
       <br><br><br><br>
         <img src="linkedin.webp" height="20"/> <a href="https://www.linkedin.com/in/patricia-ferreiraz/"> Linkedin Profile </a>
       </p>
