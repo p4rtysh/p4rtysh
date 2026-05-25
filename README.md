@@ -17,7 +17,7 @@
       <br><br>
       <b>languages and tools: </b></br>
       ➧ python ➧ java ➧ C ➧ C++
-      <br><br>
+      <br><br><br><br>
         <img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-logo-icon-svg-download-png-2284952.png?f=webp width="40" height="40"/> <a href="https://www.linkedin.com/in/patricia-ferreiraz/"> Linkedin Profile </a>
       </p>
     </td>
