@@ -15,7 +15,7 @@
       • cybersecurity & development<br>
       • also enjoy competitive programming, watercolor painting and reading books :p<br>
       <br>
-      I'm a software engineering student focused in cybersecurity. Worked as an Software Engineering Student in 2025. Currently I'm Tech Lead and Manager at my college's Startup.
+      I'm a software engineering student focused in cybersecurity. Worked as an Software Engineering Intern in 2025. Currently I'm Tech Lead and Manager at my college's Startup.
       <br><br>
       <b>#languages and tools: </b></br>
       • linux internals  |  windows internals <br>
