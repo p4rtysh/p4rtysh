@@ -22,8 +22,8 @@
       • python |  java  |  C  <br> 
       • wireshark  |  grafana & prometheus  | kali linux
       <br><br><br><br>
-        <img src="linkedin.webp" height="20"/> <a href="https://www.linkedin.com/in/patricia-ferreiraz/"> Linkedin Profile </a> <br>
-        <img src="instagram.png" height="20"/> <a href="https://www.instagram.com/p4rtysh/"> Instagram Profile </a> <br>
+        <img src="linkedin.webp" height="20"/> <a href="https://www.linkedin.com/in/patricia-ferreiraz/"> Linkedin Profile </a> 
+      | <img src="instagram.png" height="20"/> <a href="https://www.instagram.com/p4rtysh/"> Instagram Profile </a> 
       • readme inspo: <a href="https://github.com/stefani16bit"> stefani16bit </a> 
       </p>
     </td>
