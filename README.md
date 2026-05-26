@@ -10,8 +10,10 @@
       <p><b>#about me: </b>
       <br>
       • software engineering 5/8<br>
+      • cybersecurity 1/5<br>
       • 20 years old<br>
-      • focus: cybersecurity & development<br>
+      • cybersecurity & development<br>
+      • also enjoy competitive programming, watercolor painting and reading books :p<br>
       <br>
       I'm a software engineering student focused in cybersecurity. Worked as an Software Engineering Student in 2025. Currently I'm Tech Lead and Manager at my college's Startup.
       <br><br>
