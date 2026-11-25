@@ -10,12 +10,12 @@
       <p><b>#about me: </b>
       <br>
       • software engineering 5/8<br>
-      • cybersecurity 1/5<br>
+      • geração caldeira 2026<br>
       • 20 years old<br>
       • Java development<br>
       • also enjoy competitive programming, cybersecurity, watercolor painting and reading books :p<br>
       <br>
-      I'm a software engineering student focused in back-end development in Java. Worked as a Software Engineering Intern in 2025. Currently I'm a Tech Lead and Manager at my college's Startup.
+      I'm a software engineering student focused in back-end development in Java. Worked as a Software Engineering Intern in 2025. Currently I'm developing my own app and studying Java Programming at Instituto Caldeira.
       <br><br>
       <b>#languages and tools: </b></br>
       • linux internals  |  windows internals <br>
